@@ -1,4 +1,4 @@
-JSX
+
 import './App.css';
 import Cp from './Cp';
 import './counter.css';
